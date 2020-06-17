@@ -10,8 +10,6 @@ Immediate and efficient medical assistance is one of the important factors that 
 
 This is the challenge we pose in the e-Yantra Robotics Competition (eYRC 2019-20) in a unique theme “Biped Patrol”. This is based on the classic inverted pendulum control problem; the robot attempts to balance from an induced tilt angle by moving forward or backward, the same way we try to balance a stick on a finger. In addition to this, we will be using a Linear Quadratic Regulator (LQR) Controller to balance our robot.
 
-Through this theme, we will help you discover your talent in designing and building a robot from scratch and learn how to build a challenging control system to balance a two-wheeled robot. We have divided the theme into a number of tasks to build a robot in a step-by-step manner making the process easier and interesting to you. After building the bot, you need to navigate it in an arena defined by e-Yantra team to complete a set of tasks. The participating team that performs the tasks the fastest with minimum penalties as per rules is the winner.
-
 # Team Members:
 
 Arunava Dey  @adey99
