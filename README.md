@@ -12,10 +12,14 @@ This is the challenge we pose in the e-Yantra Robotics Competition (eYRC 2019-20
 
 # Team Members:
 
-Arunava Dey  @adey99
+Arunava Dey  @adey99 (Leader)
 
 Amiya Ghosh  @amiya98
 
 Dipanjan Maity @Dipanjan-M
 
 Anick Bhattacharya @anick09
+
+# Video link for the compilation of all the task from beginning:
+
+https://youtu.be/JP_oo-q5qos
