@@ -20,6 +20,6 @@ Dipanjan Maity @Dipanjan-M
 
 Anick Bhattacharya @anick09
 
-# Video link for the compilation of all the task from beginning:
+# Video link for the compilation of all the tasks from beginning:
 
 https://youtu.be/JP_oo-q5qos
