@@ -10,6 +10,10 @@ Immediate and efficient medical assistance is one of the important factors that 
 
 This is the challenge we pose in the e-Yantra Robotics Competition (eYRC 2019-20) in a unique theme “Biped Patrol”. This is based on the classic inverted pendulum control problem; the robot attempts to balance from an induced tilt angle by moving forward or backward, the same way we try to balance a stick on a finger. In addition to this, we will be using a Linear Quadratic Regulator (LQR) Controller to balance our robot.
 
+# Simulation of the Bot in Octave (Inverted cart pendulum)
+
+![inv-cart-pendu](https://github.com/adey99/Biped_Patrol/blob/master/task1%23bp/Mathematical%20Modeling%20GIFs/Inverted%20Cart%20Pendulum/lqr_cart_pendulum.gif)
+
 # Team Members:
 
 Arunava Dey  @adey99 (Leader)
